@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98892766949",
+    "project_id": "fool-game",
+    "storage_bucket": "fool-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98892766949:android:abae286874da9cd8fb3e0c",
+        "android_client_info": {
+          "package_name": "com.miniproject.fool_game_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98892766949-1u9ak6tcgdr4itcdr6eg8qe777sj589r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvVx7rQru450r7eVrUStLU5pjkKmjrcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98892766949-1u9ak6tcgdr4itcdr6eg8qe777sj589r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
